@@ -6,3 +6,5 @@
 1. Потоцька І.О.
 2. Возняк А.Т.
 3. Мітрохін О.В.
+# UML-diagram
+![Image alt](https://github.com/Anastasiia13/oop/blob/master/ООП.png)
